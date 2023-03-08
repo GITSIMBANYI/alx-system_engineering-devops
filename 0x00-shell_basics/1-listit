@@ -1,2 +1,2 @@
-#!/bish/sha
+#!/bin/bash
 ls
